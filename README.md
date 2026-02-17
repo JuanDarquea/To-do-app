@@ -1,4 +1,4 @@
-# ToDo List (Aplicación CRUD en python)
+# ToDo App (Aplicación CRUD en python)
 
 Una aplicación sencilla de lista de tareas para la línea de comandos desarrollada en Python. Este proyecto demuestra las funcionalidades básicas de un sistema CRUD (Crear, Leer, Actualizar, Borrar) utilizando persistencia de datos en archivos JSON.
 
@@ -12,7 +12,7 @@ Una aplicación sencilla de lista de tareas para la línea de comandos desarroll
 
 ## Estructura del Proyecto
 ```
-To-do-list
+To-do-app
 |
 ├── ToDo-list.py       # Script principal del programa
 ├── tareas.json        # Archivo de datos (se crea automáticamente)
